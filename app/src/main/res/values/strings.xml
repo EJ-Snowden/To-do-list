@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ToDoList</string>
+    <string name="to_add">To add activity press this button</string>
 </resources>
